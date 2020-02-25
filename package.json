@@ -1,0 +1,19 @@
+{
+  "name": "mdx-email-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "@babel/register": "^7.8.3",
+    "@mdx-js/runtime": "^1.5.7",
+    "chalk": "^3.0.0",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6",
+    "gray-matter": "^4.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "require-dir": "^1.2.0"
+  }
+}
